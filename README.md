@@ -24,3 +24,9 @@ The `quest-journal.svg` wallpaper is original. Quest Journal OS is an independen
 
 See [FEATURES.md](FEATURES.md) for three local tools included for tabletop roleplaying.
 
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, OBS Studio, Kdenlive**. See [FEATURES.md](FEATURES.md).
